@@ -1,0 +1,18 @@
+Items: {
+	classChooseDebug: {
+		DisplayName: class Choose Debug
+		Tooltip: ""
+	}
+
+	Suppressor: {
+		DisplayName: Suppressor
+		Tooltip: ""
+	}
+}
+
+Buffs: {
+	ClassSuppressedBuff: {
+		DisplayName: Class Suppressed Buff
+		Description: Mods.VowVisceral.Buffs.ClassSuppressedBuff.Description
+	}
+}
