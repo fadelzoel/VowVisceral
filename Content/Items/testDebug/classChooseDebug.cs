@@ -9,7 +9,7 @@ using Terraria.ModLoader;
 using VowVisceral.Players;
 using VowVisceral.UI;
 
-namespace VowVisceral.Content.Items.Debug
+namespace VowVisceral.Content.Items.testDebug
 {
     public class classChooseDebug : ModItem
     {
