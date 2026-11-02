@@ -9,7 +9,7 @@
 
 > **Note:** This repository is currently around **10% complete**. Features, code structures, and assets are subject to major changes and frequent updates.
 
-VowVisceral is actively under construction—whether I actually want to finish it or nah.
+VowVisceral is actively under construction, whether I actually want to finish it or nah.
 
 ---
 
